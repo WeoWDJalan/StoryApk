@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">StoryApk</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+
+    <!--    LOGIN REGISTER   -->
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="titleLoginPage">Welcome to Story App</string>
+    <string name="messageLoginPage">Please Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginAction"><u>Login</u></string>
+    <string name="dontHaveAccount">"Don't have an account yet?"</string>
+    <string name="registerAction"><u>Register</u></string>
+    <string name="titleRegisterPage">Fill in your personal data</string>
+    <string name="nameHint">Name</string>
+    <string name="alreadyHaveAnAccount">Already have an account?</string>
+
+
+    <string name="nameEmptyError">Enter your name</string>
+    <string name="emailEmptyError">Enter your email</string>
+    <string name="passwordEmptyError">Enter your Password</string>
+    <string name="emailFormatError">Incorrect email</string>
+    <string name="passwordLengthError">Min. 8 characters</string>
+    <string name="alertTitle">Done</string>
+    <string name="failureMessage">Failed to get response</string>
+    <string name="alertCreatAccount">Account created successfully</string>
+    <string name="failedTakePicture">Failed to take a picture</string>
+    <string name="failedtoOpenCamera">failed to open the camera</string>
+    <string name="storyLoadedSuccess">Story Loaded Successfully</string>
+    <string name="accessDenied">Access denied</string>
+    <string name="choosePictFirst">Choose a picture first</string>
+    <string name="titleCamera">Camera</string>
+    <string name="titleGallery">Gallery</string>
+    <string name="descriptionHint">Description</string>
+    <string name="upload">Upload</string>
+    <string name="menuTranslate">Translate</string>
+    <string name="menuLogout">Logout</string>
+    <string name="noDescription">Fill in the description first</string>
+    <string name="storyCreated">Story created successfully</string>
+    <string name="failReadImg">Failed to read image</string>
+    <string name="firstLetter">A</string>
+    <string name="username">User Name</string>
+    <string name="date">01-01-2021</string>
+    <string name="alertTittleLogout">Log out</string>
+    <string name="alertMassageLogout">Are you sure exit the Story App?</string>
+    <string name="yesLogout">Yes</string>
+    <string name="cancelLogout">Cancel</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+</resources>

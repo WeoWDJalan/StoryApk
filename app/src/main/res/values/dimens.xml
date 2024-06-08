@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txlapanbelas">18dp</dimen>
+    <dimen name="txduapuluh">20dp</dimen>
+    <dimen name="txt_enam">6dp</dimen>
+    <dimen name="txt_enambelas">16dp</dimen>
+    <dimen name="txt_dua">2dp</dimen>
+</resources>

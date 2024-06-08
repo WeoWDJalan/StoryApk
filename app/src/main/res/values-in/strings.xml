@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+
+    <!--    LOGIN REGISTER   -->
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="titleLoginPage">Selamat Datang di Story App</string>
+    <string name="messageLoginPage">Silakan masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginAction"><u>Masuk</u></string>
+    <string name="dontHaveAccount">Belum punya akun?</string>
+    <string name="registerAction"><u>Daftar</u></string>
+    <string name="titleRegisterPage">Silakan isi data diri Anda</string>
+    <string name="nameHint">Nama</string>
+    <string name="alreadyHaveAnAccount">Sudah punya akun?</string>
+
+
+    <string name="nameEmptyError">Masukkan nama</string>
+    <string name="emailEmptyError">Masukkan email</string>
+    <string name="passwordEmptyError">Masukkan pssword</string>
+    <string name="emailFormatError">Email salah</string>
+    <string name="passwordLengthError">Min. 8 karakter</string>
+    <string name="alertTitle">Berhasil</string>
+    <string name="alertPositive">Selanjutnya</string>
+    <string name="failureMessage">Gagal mendapatkan respon</string>
+    <string name="alertCreatAccount">Akun berhasil dibuat!</string>
+    <string name="failedTakePicture">Gagal mengambil gambar</string>
+    <string name="failedtoOpenCamera">Gagal membuka kamera</string>
+    <string name="storyLoadedSuccess">Cerita berhasil dimuat</string>
+    <string name="accessDenied">Akses gagal</string>
+    <string name="choosePictFirst">Pilih gambar terlebih dahulu</string>
+    <string name="titleCamera">Kamera</string>
+    <string name="titleGallery">Galeri</string>
+    <string name="descriptionHint">Deskripsi</string>
+    <string name="upload">Unggah</string>
+    <string name="menuTranslate">Translate</string>
+    <string name="menuLogout">Keluar</string>
+    <string name="noDescription">Isi deskripsi terlebih dahulu</string>
+    <string name="storyCreated">Cerita berhasil dibuat!</string>
+    <string name="failReadImg">Gagal membaca gambar</string>
+    <string name="firstLetter">A</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="date">01-01-2021</string>
+    <string name="alertTittleLogout">Keluar</string>
+    <string name="alertMassageLogout">Apakah kamu yakin ingin keluar?</string>
+    <string name="yesLogout">Iya</string>
+    <string name="cancelLogout">Batal</string>
+    <string name="maps">Peta</string>
+</resources>
